@@ -35,6 +35,7 @@ namespace GildedRose.Console
         }
 
         public void UpdateQuality()
+            //what needs to happen every day 
         {
             for (var i = 0; i < Items.Count; i++)
             {
@@ -74,12 +75,13 @@ namespace GildedRose.Console
                         }
                     }
                 }
-
+                // what need to happen to decrease the quality
                 if (Items[i].Name != "Sulfuras, Hand of Ragnaros")
                 {
                     Items[i].SellIn = Items[i].SellIn - 1;
                 }
 
+                // what needs to happen if the sellin date is less thatn Zero
                 if (Items[i].SellIn < 0)
                 {
                     if (Items[i].Name != "Aged Brie")
