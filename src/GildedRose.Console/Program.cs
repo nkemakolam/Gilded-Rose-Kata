@@ -4,6 +4,10 @@ namespace GildedRose.Console
 {
     class Program
     {
+        // refactoring variable parameter
+
+        
+
         IList<Item> Items;
         static void Main(string[] args)
         {
@@ -33,9 +37,10 @@ namespace GildedRose.Console
             System.Console.ReadKey();
 
         }
-
+        
         public void UpdateQuality()
             //what needs to happen every day 
+
         {
             for (var i = 0; i < Items.Count; i++)
             {
@@ -114,13 +119,6 @@ namespace GildedRose.Console
 
     }
 
-    public class Item
-    {
-        public string Name { get; set; }
-
-        public int SellIn { get; set; }
-
-        public int Quality { get; set; }
-    }
+   
 
 }

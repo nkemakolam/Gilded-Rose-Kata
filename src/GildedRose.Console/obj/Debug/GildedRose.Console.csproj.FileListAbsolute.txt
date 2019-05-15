@@ -5,3 +5,10 @@ C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\GildedRose-master\src\Gil
 C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\GildedRose-master\src\GildedRose.Console\obj\Debug\GildedRose.Console.csproj.CoreCompileInputs.cache
 C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\GildedRose-master\src\GildedRose.Console\obj\Debug\GildedRose.Console.exe
 C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\GildedRose-master\src\GildedRose.Console\obj\Debug\GildedRose.Console.pdb
+C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\Gilded-Rose-Kata\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe.config
+C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\Gilded-Rose-Kata\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe
+C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\Gilded-Rose-Kata\src\GildedRose.Console\bin\Debug\GildedRose.Console.pdb
+C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\Gilded-Rose-Kata\src\GildedRose.Console\obj\Debug\GildedRose.Console.csprojAssemblyReference.cache
+C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\Gilded-Rose-Kata\src\GildedRose.Console\obj\Debug\GildedRose.Console.csproj.CoreCompileInputs.cache
+C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\Gilded-Rose-Kata\src\GildedRose.Console\obj\Debug\GildedRose.Console.exe
+C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\Gilded-Rose-Kata\src\GildedRose.Console\obj\Debug\GildedRose.Console.pdb

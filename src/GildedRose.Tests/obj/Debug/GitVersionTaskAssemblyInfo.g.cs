@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: AssemblyVersion("0.1.0.0")]
 [assembly: AssemblyFileVersion("0.1.0.0")]
-[assembly: AssemblyInformationalVersion("0.1.0+1.Branch.master.Sha.7a83d8e02e68c6e068fbdd7dc0f4cb8b908a3d29")]
+[assembly: AssemblyInformationalVersion("0.1.0+2.Branch.master.Sha.2ea2a8111482e097d4509a85c0431ecbf213f704")]
 
 namespace GildedRose.Tests
 {
@@ -28,23 +28,23 @@ namespace GildedRose.Tests
         public static string PreReleaseTagWithDash = "";
         public static string PreReleaseLabel = "";
         public static string PreReleaseNumber = "";
-        public static string BuildMetaData = "1";
-        public static string BuildMetaDataPadded = "0001";
-        public static string FullBuildMetaData = "1.Branch.master.Sha.7a83d8e02e68c6e068fbdd7dc0f4cb8b908a3d29";
+        public static string BuildMetaData = "2";
+        public static string BuildMetaDataPadded = "0002";
+        public static string FullBuildMetaData = "2.Branch.master.Sha.2ea2a8111482e097d4509a85c0431ecbf213f704";
         public static string MajorMinorPatch = "0.1.0";
         public static string SemVer = "0.1.0";
         public static string LegacySemVer = "0.1.0";
         public static string LegacySemVerPadded = "0.1.0";
         public static string AssemblySemVer = "0.1.0.0";
-        public static string FullSemVer = "0.1.0+1";
-        public static string InformationalVersion = "0.1.0+1.Branch.master.Sha.7a83d8e02e68c6e068fbdd7dc0f4cb8b908a3d29";
+        public static string FullSemVer = "0.1.0+2";
+        public static string InformationalVersion = "0.1.0+2.Branch.master.Sha.2ea2a8111482e097d4509a85c0431ecbf213f704";
         public static string BranchName = "master";
-        public static string Sha = "7a83d8e02e68c6e068fbdd7dc0f4cb8b908a3d29";
+        public static string Sha = "2ea2a8111482e097d4509a85c0431ecbf213f704";
         public static string NuGetVersionV2 = "0.1.0";
         public static string NuGetVersion = "0.1.0";
-        public static string CommitsSinceVersionSource = "1";
-        public static string CommitsSinceVersionSourcePadded = "0001";
-        public static string CommitDate = "2019-05-14";
+        public static string CommitsSinceVersionSource = "2";
+        public static string CommitsSinceVersionSourcePadded = "0002";
+        public static string CommitDate = "2019-05-15";
     }
 
 }
