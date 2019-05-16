@@ -33,3 +33,23 @@ C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\Gilded-Rose-Kata\src\Gild
 C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\GildedRose.Console.exe
 C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\GildedRose.Console.pdb
 C:\Users\nkema\Desktop\Auction Portal\Digital Explorer\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\GildedRose.Console.exe.config
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\xunit.abstractions.dll
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\GildedRose.Tests.dll
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\GildedRose.Tests.pdb
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\GildedRose.Console.exe
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\xunit.assert.dll
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\xunit.core.dll
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\GildedRose.Console.pdb
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\GildedRose.Console.exe.config
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\xunit.assert.pdb
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\xunit.assert.xml
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\xunit.core.pdb
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\bin\Debug\xunit.core.xml
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.csprojAssemblyReference.cache
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.csproj.CoreCompileInputs.cache
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.csproj.CopyComplete
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.dll
+C:\Guests\Nkem\Repos\Gilded-Rose-Kata\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.pdb
